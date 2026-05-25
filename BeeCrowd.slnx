@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="bee1002/bee1002.csproj" />
+  <Project Path="bee1003/bee1003.csproj" />
+  <Project Path="bee1007/bee1007.csproj" />
+  <Project Path="bee1008/bee1008.csproj" />
+  <Project Path="bee1010/bee1010.csproj" />
+  <Project Path="bee1012/bee1012.csproj" />
+  <Project Path="bee1037/bee1037.csproj" />
+  <Project Path="bee1038/bee1038.csproj" />
+  <Project Path="bee1041/bee1041.csproj" />
+  <Project Path="bee1044/bee1044.csproj" />
+  <Project Path="bee1046/bee1046.csproj" />
+  <Project Path="bee1051/bee1051.csproj" />
+</Solution>
